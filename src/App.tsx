@@ -99,7 +99,7 @@ function App() {
 
       <footer className="border-t dark:border-gray-800 mt-auto">
         <div className="container mx-auto px-4 py-6 text-center text-gray-600 dark:text-gray-400">
-          © {new Date().getFullYear()} Sudoku PDF Generator. All rights reserved.
+          © {new Date().getFullYear()} <a href='https://github.com/shihabshahrier'>SSA</a>. All rights reserved.
         </div>
       </footer>
     </div>
