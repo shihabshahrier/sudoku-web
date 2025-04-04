@@ -85,11 +85,3 @@ The application uses a sophisticated algorithm to generate valid Sudoku puzzles 
 2. **Solution Validation**: Ensures each puzzle has exactly one valid solution
 3. **PDF Creation**: Generates a PDF with both puzzles and solutions, optimized for printing
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- Inspired by the need for high-quality Sudoku puzzles for printing
-- Built with modern web technologies for a great user experience
