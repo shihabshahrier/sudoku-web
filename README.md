@@ -85,3 +85,6 @@ The application uses a sophisticated algorithm to generate valid Sudoku puzzles 
 2. **Solution Validation**: Ensures each puzzle has exactly one valid solution
 3. **PDF Creation**: Generates a PDF with both puzzles and solutions, optimized for printing
 
+---
+
+📖 **Project page:** https://shihub.online/projects/sudoku-web
