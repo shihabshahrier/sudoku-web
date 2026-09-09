@@ -87,4 +87,4 @@ The application uses a sophisticated algorithm to generate valid Sudoku puzzles 
 
 ---
 
-📖 **Project page:** https://shihub.online/projects/sudoku-web
+📖 **Project page:** https://shihub.site/projects/sudoku-web
